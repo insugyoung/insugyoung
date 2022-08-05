@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning python
+![sugyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=insugyoung&show_icons=true&theme=radical)
 
 <!--
 **insugyoung/insugyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
